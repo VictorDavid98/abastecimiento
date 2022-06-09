@@ -1,0 +1,1 @@
+{"version":"0.0.1","name":"inventario_quasar","dependencies":{"@quasar/extras":{"version":"1.12.5"},"axios":{"version":"0.21.4"},"core-js":{"version":"3.21.0"},"quasar":{"version":"2.5.5"},"vue-router":{"version":"4.0.12"},"vue":{"version":"3.2.31"},"vuex":{"version":"4.0.2"}}}
